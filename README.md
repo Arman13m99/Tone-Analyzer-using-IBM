@@ -27,10 +27,10 @@ To install the necessary packages, you can use the following pip command:
 ## You can install them all using:
 pip install -r requirements.txt
 
-##Usage
-### Authenticate: Replace 'YOUR API KEY HERE' and 'YOUR URL HERE' with your actual IBM Watson API key and URL in the notebook.
-### Import and Initialize: Import the necessary modules and initialize the Tone Analyzer service.
-### Analyze Tone: Use the Tone Analyzer service to analyze the tone of your text.
+## Usage
+#### Authenticate: Replace 'YOUR API KEY HERE' and 'YOUR URL HERE' with your actual IBM Watson API key and URL in the notebook.
+#### Import and Initialize: Import the necessary modules and initialize the Tone Analyzer service.
+#### Analyze Tone: Use the Tone Analyzer service to analyze the tone of your text.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
